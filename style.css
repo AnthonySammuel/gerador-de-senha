@@ -1,0 +1,7 @@
+body {
+    background-color: var(--cinza);
+}
+
+:root {
+    --fonte-titulo: "Bebas Neue", sans-serif;
+}
