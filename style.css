@@ -4,4 +4,16 @@ body {
 
 :root {
     --fonte-titulo: "Bebas Neue", sans-serif;
+    --rosa:hotpink;
+    --ouro:gold;
+    --cinza:gray;
+    --verde:chartreuse;
+    --azul-claro:cornflowerbleu;
+
+}
+
+.conteudo-titulo{
+    font-family: var(--fonte-titulo);
+    text-align: center;
+    
 }
