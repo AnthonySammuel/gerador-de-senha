@@ -1,9 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Briem+Hand:wght@100..900&display=swap');
 body {
     background-color: var(--cinza);
 }
 
 :root {
-    --fonte-titulo: "Bebas Neue", sans-serif;
+    --fonte-titulo: "Briem Hand", cursive;
     --rosa:rgb(114, 4, 4);
     --ouro:rgb(225, 0, 255);
     --cinza:gray;
