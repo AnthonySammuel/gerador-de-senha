@@ -8,7 +8,7 @@ body {
     --ouro:rgb(225, 0, 255);
     --cinza:gray;
     --verde:rgb(6, 116, 106);
-    --azul-claro:cornflowerbleu;
+    --azul-claro:cornflowerblue;
 
 }
 
@@ -53,8 +53,6 @@ body {
     display: flex;
     margin: 50px;
 }
-
-@media screen and(min-width:768px){}
 
 .parametro-senha__botao{
 background-color: var(--ouro);
